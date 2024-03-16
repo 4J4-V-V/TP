@@ -359,7 +359,17 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      slime_1_2_0: 3965641286946261573
+      slime_1_2_1: -4967535011968822639
+      slime_1_2_2: -6112674065811029548
+      slime_1_2_3: -1103421347197305715
+      slime_1_2_4: 7947551888020123277
+      slime_1_2_5: 4952319064260575965
+      slime_1_2_6: 589831852678380597
+      slime_1_2_7: -2876983586020838057
+      slime_1_2_8: -4001793789937345281
+      slime_1_2_9: 1257600064869317606
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

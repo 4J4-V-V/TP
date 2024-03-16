@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spiderweb_4_0: 2475136901887507560
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

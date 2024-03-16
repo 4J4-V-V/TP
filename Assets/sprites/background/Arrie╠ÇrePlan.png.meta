@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "Arrie\u2560\xC7rePlan_0": -9064640265607084112
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

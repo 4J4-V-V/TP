@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      magic_light_green_0: -6277197384921887672
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

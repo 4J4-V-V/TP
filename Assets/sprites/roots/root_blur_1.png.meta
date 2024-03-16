@@ -167,7 +167,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      root_blur_1_0: 801173630724890643
+      root_blur_1_1: 3916420677885593768
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

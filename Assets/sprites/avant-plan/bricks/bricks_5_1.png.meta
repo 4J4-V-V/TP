@@ -167,7 +167,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bricks_5_1_0: -472607649525190363
+      bricks_5_1_1: -7206303714496348525
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
