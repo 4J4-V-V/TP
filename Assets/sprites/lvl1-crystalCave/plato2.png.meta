@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 2984dcf8379d6b449a95c9b83c0c998a
+guid: cc58f680e8012aa4784765b4e7ce892a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7760075531906329130
-    second: platii_0
+      213: 36534539028337541
+    second: plato2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: platii_0
+      name: plato2_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 736
-        height: 157
+        width: 2500
+        height: 780
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -127,8 +127,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a2a2a75e49351bb60800000000000000
-      internalID: 7760075531906329130
+      spriteID: 58311dc38fbc18000800000000000000
+      internalID: 36534539028337541
       vertices: []
       indices: 
       edges: []
@@ -143,8 +143,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      platii_0: 7760075531906329130
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
